@@ -1057,4 +1057,12 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     }
+    {
+        "product": "trustproovr",
+        "website": "https://trustproovr.lol",
+        "llms-txt": "https://trustproovr.lol/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    }
 ]
